@@ -9,6 +9,8 @@ There are three main views:
 * The Main Menu
 * The Game View
 
+NOTE: Resources are not in GitHub, since I don't own the copyrights on them. You won't be able to use them if you clone the project.
+
 ### Character Creation
 ![Character Creation](/docs/CharacterCreation.png)
 
@@ -19,3 +21,4 @@ There are three main views:
 ### Game View
 
 ![Game View](/docs/GameView.png)
+
