@@ -10,10 +10,12 @@ There are three main views:
 * The Game View
 
 ### Character Creation
-
+![Character Creation](/docs/CharacterCreation.png)
 
 ### Main Menu
-
+![Main Menu](/docs/MainMenu.png)
 
 
 ### Game View
+
+![Game View](/docs/GameView.png)
